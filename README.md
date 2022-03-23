@@ -12,7 +12,7 @@ automatically afterwards. In each generation, the next generation is calculated.
 born on an empty cell if it is surrounded by exactly three occupied neighbor cells. A 
 cell dies of overcrowding if it is surrounded by four or more living neighbors. It dies
 of loneliness if it is surrounded by zero or only one living neighbor. A neighbor is defined as an occupant 
-of an adjacent cell to the left, right, top, or bottom or in a diagonal direction
+of an adjacent cell to the left, right, top, or bottom or in a diagonal direction.
 
 **Animated**
 ----------------------
@@ -116,3 +116,7 @@ Enter destination file name: test2.txt
 
 Saving data to test7.txt
 ```
+
+**Test Files**
+-------------------------
+I have included some test files in the test folder. Grids can be made manually.
